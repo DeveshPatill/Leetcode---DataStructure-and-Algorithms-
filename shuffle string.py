@@ -13,4 +13,5 @@ class Solution(object):
             result[indices[i]] = ch
         
         # Join list into string
+
         return "".join(result)
